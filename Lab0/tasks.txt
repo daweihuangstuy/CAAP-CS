@@ -12,6 +12,7 @@ git output:
  -got the command this off the internet
  
  ---------------------------------------------------------------
+ Task 7
  
  Finding --no-mouse option
  commit SHA : commit c7e86ad4f1061b0cad9f64a6c9ad26f386bc1168
@@ -25,3 +26,9 @@ git output:
  git log > commit.txt
  
  -got the command to copy the contents of the terminal into a word file off of the internet.
+ 
+ ---------------------------------------------------------------
+ Task 8
+ 
+ To see the difference between the changes you made relative to the file and the last commit,
+ use the git command 
