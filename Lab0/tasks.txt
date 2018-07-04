@@ -8,7 +8,6 @@ git output:
  Date: Tue Jul 3 23:00:24 2018 -0500
  1 file changed, 2 insertions(+)
  create mode 100644 Lab0/tasks.txt
-
  -got the command this off the internet
  
  ---------------------------------------------------------------
@@ -24,7 +23,6 @@ git output:
  commit SHA.
  
  git log > commit.txt
- 
  -got the command to copy the contents of the terminal into a word file off of the internet.
  
  ---------------------------------------------------------------
@@ -32,6 +30,7 @@ git output:
  
  To see the difference between the changes you made relative to the file and the last commit,
  use the git command "git diff HEAD."
+  -got this from the internet
  
  ---------------------------------------------------------------
  Task 9
@@ -39,3 +38,10 @@ git output:
  To create a commit that would remove a give file, simply delete the file from the directory and then
  add and commit the changes that you made. In this way, you created a new commit to delete the given
  file while the history of the file's existance is maintained.
+ 
+ ---------------------------------------------------------------
+ Task 10
+ 
+ To reverse changes in the previous two commits while creating a new commit, you would use the command
+ "git revert HEAD~2..HEAD"
+ -got this from the internet
