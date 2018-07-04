@@ -31,4 +31,4 @@ git output:
  Task 8
  
  To see the difference between the changes you made relative to the file and the last commit,
- use the git command 
+ use the git command "git diff HEAD."
