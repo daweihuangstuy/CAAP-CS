@@ -8,3 +8,20 @@ git output:
  Date: Tue Jul 3 23:00:24 2018 -0500
  1 file changed, 2 insertions(+)
  create mode 100644 Lab0/tasks.txt
+
+ -got the command this off the internet
+ 
+ ---------------------------------------------------------------
+ 
+ Finding --no-mouse option
+ commit SHA : commit c7e86ad4f1061b0cad9f64a6c9ad26f386bc1168
+ 
+ After I cloned the repository to my home directory, I cd into the directory and ran git log 
+ in the command prompt to print out the log of commit history in my terminal. I decided to 
+ copy the commit history into a txt file so I can use Notepad++'s word finder feature to locate
+ the key words "--no-mouse" and found the commit when that feature was added. I then copied the
+ commit SHA.
+ 
+ git log > commit.txt
+ 
+ -got the command to copy the contents of the terminal into a word file off of the internet.
