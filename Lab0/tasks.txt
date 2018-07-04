@@ -1,2 +1,10 @@
 Task 6
 --------
+use git command: 
+git commit --amend -m "adding task 6"
+
+git output: 
+[master db631dc] adding task 6
+ Date: Tue Jul 3 23:00:24 2018 -0500
+ 1 file changed, 2 insertions(+)
+ create mode 100644 Lab0/tasks.txt
