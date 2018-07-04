@@ -39,3 +39,9 @@ git output:
  To create a commit that would remove a give file, simply delete the file from the directory and then
  add and commit the changes that you made. In this way, you created a new commit to delete the given
  file while the history of the file's existance is maintained.
+ 
+ ---------------------------------------------------------------
+ Task 10
+ 
+ This is a mistake.
+ This is also a mistake.
