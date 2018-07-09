@@ -1,0 +1,19 @@
+Task 1: 10 points
+Task 2: 4 points
+	--> test.txt and readme.txt files from tasks 1-5 should be within lab0
+Task 3: 5 points
+Task 4:	5 points
+Task 5:	5 points
+Task 6: 5 points
+Task 7: 5 points
+Task 8: 5 points
+Task 9: 4 points
+	--> No command listed
+Task 10: 10 points
+Task 11: 2 points
+-2 did not cited any sources 
+Total: 58/60
+
+"got this from the internet" Doesn't cut it. Make sure to cite every source/page you use or reference. Only took off 2 points for this, but I will not be as lenient moving forward.
+
+Otherwise, good job!
