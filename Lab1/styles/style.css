@@ -1,0 +1,64 @@
+@charset "UTF-8";
+
+/* Last edit: 2/18/2018 8:00 PM */
+/* Last validated error free: 2/18/2018 9:27 PM */
+
+/* Cite code */
+
+body {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    background-color: lightblue;
+}
+
+/* Got this code from https://www.w3schools.com/css/tryit.aspfilename=trycss_navbar_horizontal_black_active  */
+
+ul.a {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    color: white
+}
+
+li.a {
+    float: left;
+}
+
+li.a a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+li.a a:hover:not(.active) {
+    background-color: blue;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+/* end of cited code  */
+
+ul.b {
+    list-style-type: none;
+    margin: 0;
+    padding-left:0;
+    overflow: hidden;
+    background-color: #333;
+    float: center
+}
+
+li.b b {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
