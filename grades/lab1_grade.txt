@@ -1,0 +1,41 @@
+Lab 1
+CAAP CMSC 101, Summer 2018
+
+Required Elements/Attributes
+  Correct use           1/3
+  Used all              1/3
+  Balanced amount       2/3 
+
+Semantic markup
+  Well structured hierarchies    10/20
+
+Correct use of directories/files
+  Links                 5/5
+  In docs directory     5/5
+  Git sites works       6/10
+
+Validation
+  Both pages and stylesheets  20/20
+
+Design/CSS
+  Dynamic screen size    5/5
+  Efficient use of CSS on multiple pages     10/10
+  Professional design in both pages  4/5
+  
+
+Code style
+  format         3/3 (* code looks good *)
+  clarity        3/3 (* logic is expressed clearly *)
+  decomposition  1/3 (* problems are factored into sensible subproblems *)
+  efficiency     2/2 (* blatant inefficiencies are avoided *)
+
+_total-score_  77/100
+
+graded by Jose Reyes
+
+Comments:
+- The main page has to always be index.html or home.html, or else the server doesn't know which should be your main page and all your files can be exposed, which is a big security no no.
+- Although you have multiple pages, they all seem to be about you. What happened to part A, the business page?
+- <ol> and <li> cannot be used alone, that simply specifies that you will have a list, but you need actual items in the list, using <li> for each one.
+- You only need to pages, and index.html, and a profile.html. Both of which should have all the elements, correctly used, specified in Part A.1
+- Please redo this and ask for a regrade.
