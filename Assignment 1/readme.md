@@ -23,7 +23,7 @@ This program sums a list of numbers the user inputs into the terminal. First it 
 ### 5) Fibonacci Sequence
 This program returns the nth term of the fibonacci sequence. The program prompts the user to input the nth term of the fibonacci sequence and output the numerical value of that nth term.
 
-## Part 2: Change
+## Part 2: cash.py
 
 This program returns the least amount of coins needed for a specific amount of change as specified by the user using the concept of a greedy algorithm. The program prompts the user to enter a specific amount of change and outputs the least amount of coins needed to correspond to the value of change.
 
