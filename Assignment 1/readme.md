@@ -6,7 +6,7 @@ This programming portion of this assignment contains two parts. Part 1 contains 
 
 To run the program, the user simply inputs hello.py or cash.py in the command terminal. The program will progress through each program in an orderly manner prompting users for inputs when necessary. The command prompt will end once the user runs through all the programs on a given file.
 
-##Part 1: hello.py
+## Part 1: hello.py
 
 ### 1) Hello World
 This program takes no inputs and prints "Hello!" on the terminal.
